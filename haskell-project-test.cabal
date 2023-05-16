@@ -22,7 +22,7 @@ maintainer:         victorandre957@gmail.com
 extra-source-files: CHANGELOG.md
 
 library
-    exposed-modules:  Trabalho_1
+    exposed-modules:  Trabalho_2 Dados
 
     -- Modules included in this library but not exported.
     -- other-modules:
